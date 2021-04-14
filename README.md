@@ -1,4 +1,4 @@
-- 👋 Hi, i'm Orlando.
+- 👋 Hi, I'm Orlando.
 
 - I’m currently a student at Swarthmore College and prospect CS major.
 - In my free time, I try to improve my programming skills and understanding of CS concepts through short projects!
