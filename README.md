@@ -2,7 +2,7 @@
 
 - I'm a student at Swarthmore College and a CS major.
 - In my free time, I try to improve my programming skills and understanding of CS concepts through short projects!
-- Projects I have done include websites, as well as short python and C++ scripts which you can view in my repo.
+- Projects I have done include websites, as well as short python and C++ scripts which you can view in my repos.
 - Some of my interests: web development, embedded systems, encryption, software engineering.
 
 - Feel free to reach out -> oazuara1@swarthmore.edu
