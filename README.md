@@ -2,8 +2,9 @@
 
 - I'm a CS major and French minor at Swarthmore College.
 - In my free time, I try to improve my programming skills and understanding of CS concepts through short projects!
-- Projects I have done include websites, as well as short python and C++ scripts which you can view in my repos.
-- Some of my interests: web development, embedded systems, encryption, software engineering.
+- Projects I have done include websites, an ML sleep study, as well as short python and C++ scripts which you can view in my repos.
+- You can see my ML study here! -> 
+- Some of my interests: web development, software engineering, embedded systems, Machine Learning, encryption.
 
 - Feel free to reach out -> oazuara1@swarthmore.edu
 - Linkedin -> https://www.linkedin.com/in/orlando-yahir-azuara-hernandez-174221182/
