@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Orlando.
 
-- I'm a student at Swarthmore College and a CS major.
+- I'm a CS major and French minor at Swarthmore College.
 - In my free time, I try to improve my programming skills and understanding of CS concepts through short projects!
 - Projects I have done include websites, as well as short python and C++ scripts which you can view in my repos.
 - Some of my interests: web development, embedded systems, encryption, software engineering.
