@@ -2,7 +2,7 @@
 
 - I'm a CS major and French minor at Swarthmore College.
 - In my free time, I try to improve my programming skills and understanding of CS concepts through short projects!
-- Projects I have done include websites, an ML sleep study, as well as short python and C++ scripts which you can view in my repos.
+- Projects I have done include websites, a ML sleep study, as well as short python and C++ scripts which you can view in my repos.
 - You can see my ML study here! -> https://github.com/ztgillette/optimal-sleep-algorithm
 - Some of my interests: web development, software engineering, embedded systems, Machine Learning, encryption.
 
