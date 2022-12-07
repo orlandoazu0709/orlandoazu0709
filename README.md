@@ -1,14 +1,13 @@
-- 👋 Hi, I'm Orlando.
+Welcome to my GitHub page 👋
 
-- I'm a CS major and French minor at Swarthmore College.
-- In my free time, I try to improve my programming skills and understanding of CS concepts through short projects!
-- Projects I have done include websites, a ML sleep study, as well as short python and C++ scripts which you can view in my repos.
-- You can see my ML study here! -> https://github.com/ztgillette/optimal-sleep-algorithm
-- Some of my interests: web development, software engineering, embedded systems, Machine Learning, encryption.
+- Currently studying CS & French @ Swarthmore College.
+- Learning Full Stack Web Development
+- Published an ML sleep study, using the Muse S headband to collect EEG data and test different algorithms. You can see my ML study [here](https://github.com/ztgillette/optimal-sleep-algorithm)!
+- Interests: Web development, Software engineering, Embedded systems, Machine Learning, Encryption, Languages.
 
-- Feel free to reach out -> oazuara1@swarthmore.edu
-- Linkedin -> https://www.linkedin.com/in/orlando-yahir-azuara-hernandez-174221182/
-- Portfolio -> https://orlandoazu0709.github.io/Portfolio/
+Feel free to reach out: -> oazuara1@swarthmore.edu
+- [Linkedin](https://www.linkedin.com/in/orlando-yahir-azuara-hernandez-174221182/)
+- [Portfolio](https://orlandoazu0709.github.io/Portfolio/)
 
 <!---
 orlandoazu0709/orlandoazu0709 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
