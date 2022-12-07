@@ -8,7 +8,7 @@
 **Feel free to reach out:**
 - [Linkedin](https://www.linkedin.com/in/orlando-yahir-azuara-hernandez-174221182/)
 - [Portfolio](https://orlandoazu0709.github.io/Portfolio/)
-- [Email](oazuara1@swarthmore.edu)
+- [Email](mailto:oazuara1@swarthmore.edu)
 
 <!---
 orlandoazu0709/orlandoazu0709 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
