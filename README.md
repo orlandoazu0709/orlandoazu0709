@@ -2,7 +2,7 @@ Welcome to my GitHub page 👋
 
 - Currently studying CS & French @ Swarthmore College.
 - Learning Full Stack Web Development
-- Published an ML sleep study, using the Muse S headband to collect EEG data and test different algorithms. You can see my ML study [here](https://github.com/ztgillette/optimal-sleep-algorithm)!
+- Published an ML sleep study, using the Muse S headband to collect EEG data and test different algorithms. Feel free to look at the [repo](https://github.com/ztgillette/optimal-sleep-algorithm) and the [article](https://www.researchgate.net/publication/364539044_Using_Machine_Learning_to_Determine_Optimal_Sleeping_Schedules_of_Individual_College_Students)!
 - Interests: Web development, Software engineering, Embedded systems, Machine Learning, Encryption, Languages.
 
 Feel free to reach out: -> oazuara1@swarthmore.edu
