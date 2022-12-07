@@ -6,9 +6,9 @@
 - Interests: Web development, Software engineering, Embedded systems, Machine Learning, Encryption, Languages.
 
 **Feel free to reach out:**
+- Email: [oazuara1@swarthmore.edu](mailto:oazuara1@swarthmore.edu)
 - [Linkedin](https://www.linkedin.com/in/orlando-yahir-azuara-hernandez-174221182/)
 - [Portfolio](https://orlandoazu0709.github.io/Portfolio/)
-- [Email](mailto:oazuara1@swarthmore.edu)
 
 <!---
 orlandoazu0709/orlandoazu0709 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
